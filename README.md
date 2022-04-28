@@ -90,6 +90,22 @@ MyComponent.propTypes = {
 
 finally for strict checking nodes we can engage it!
 
+## Installation
+
+**Make sure you have installed [prop-types](https://www.npmjs.com/package/prop-types)**
+
+NPM
+
+```shell
+npm install prop-types-required-nodes --save-dev
+```
+
+Yarn
+
+```shell
+yarn add prop-types-required-nodes -D
+```
+
 ## Usage
 
 ```tsx
@@ -150,26 +166,6 @@ Button.propTypes = {
   My Button
 </Button>;
 ```
-
-## Installation
-
-**Make sure you have installed [prop-types](https://www.npmjs.com/package/prop-types)**
-
-NPM
-
-```shell
-npm install prop-types-required-nodes --save-dev
-```
-
-Yarn
-
-```shell
-yarn add prop-types-required-nodes -D
-```
-
-## Example
-
-[Codesandbox](https://codesandbox.io/s/elegant-chandrasekhar-18wcjq)
 
 ## Contributing
 
