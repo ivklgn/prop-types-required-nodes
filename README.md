@@ -4,11 +4,6 @@
 
 This library relevant for React developers who used prop-types or developers who build UI-kits.
 
-- 🐣 **small** API and size
-- 🌊 **pipable**
-- 🙌🏻 **usefull** access to data/selector in predicates
-- 🔗 **better types** than in analogues
-
 ## Idea
 
 if you have some component that accepts other ReactNode components via props, for example:
