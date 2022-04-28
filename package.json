@@ -1,6 +1,6 @@
 {
   "name": "prop-types-required-nodes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Prop-types helper for strict runtime checking React nodes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
