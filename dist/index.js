@@ -1,6 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.requiredNodes = void 0;
 /* istanbul ignore next */
 function isStringEq(str1, str2) {
     if (str1.length !== str2.length) {
@@ -21,4 +20,4 @@ function requiredNodes(nodes) {
         return null;
     };
 }
-exports.requiredNodes = requiredNodes;
+exports.default = requiredNodes;

@@ -1,5 +1,7 @@
 # prop-types-required-nodes ⛔️
 
+[![npm version](https://badge.fury.io/js/prop-types-required-nodes.svg)](https://badge.fury.io/js/prop-types-required-nodes)
+
 **Prop-types helper for strict runtime checking React nodes.**
 
 This library relevant for React developers who used prop-types or developers who build UI-kits.
