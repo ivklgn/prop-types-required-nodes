@@ -1,4 +1,6 @@
-import { ReactNode, ReactInstance } from 'react';
+import { ReactElement, ReactFragment, ReactPortal, ReactInstance } from 'react';
+
+type ReactNode = ReactElement | ReactFragment | ReactPortal;
 
 /* istanbul ignore next */
 function isStringEq(str1: string, str2: string) {
